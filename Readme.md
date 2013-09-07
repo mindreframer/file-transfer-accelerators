@@ -99,6 +99,9 @@
   - http://mrsync.sourceforge.net/
   - http://sourceforge.net/projects/mrsync/files/mrsync/
 
+## RBUDP
+  - http://www.evl.uic.edu/cavern/RBUDP/Reliable%20Blast%20UDP.html
+
 ## GridFTP
   - http://en.wikipedia.org/wiki/GridFTP
   - http://www.globus.org/toolkit/docs/latest-stable/gridftp/
@@ -122,6 +125,7 @@
   - https://github.com/rriley/tsunami-udp
   - [Using Tsunami UDP in AWS- How it helps, Configuration and Comparison](http://harish11g.blogspot.de/2013/05/How-to-transfer-huge-data-to-Amazon-Web-Services-AWS-using-Tsunami-UDP-Configuration-Comparison.html)
   - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.4551&rep=rep1&type=pdf
+  - http://www.csm.ornl.gov/~dunigan/netperf/udp/
 
 
 
